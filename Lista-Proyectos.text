@@ -1,0 +1,27 @@
+1- Ecommer de venta de comida.
+
+     cliente
+     articulo
+     pedido
+     cadetes
+     zona
+     sucursales
+
+2- administracion comercio.
+     
+    provedores
+    stock
+    decomisos
+    pedidos
+    empleados
+    ventas
+    articulos
+    clientes
+
+3- Relevamiento de datos "paseo de artesanos"
+
+    artesanos
+    certificacion/autorizacion
+    sector
+    rubro
+    empleados
